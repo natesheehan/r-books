@@ -8,6 +8,7 @@ Various books for r stats
 
 ## Statistical Modelling
 - https://annakrystalli.me/bird_trait_networks/Hierarchical_Networks.html
+- https://rpubs.com/aborderon/covid-19-models-forecasting
 
 ## Genomics
 - https://brouwern.github.io/lbrb/worked-example-building-a-phylogeny-in-r.html
