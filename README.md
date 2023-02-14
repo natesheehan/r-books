@@ -18,6 +18,7 @@ https://kateto.net/workshops/sunbelt/sunbelt2021.pdf
 https://bookdown.org/amesoudi/ABMtutorial_bookdown/model10.html#model10
 https://raffaelevacca.github.io/egocentric-r-book/egor.html
 https://mr.schochastics.net/material/netAnaR/#centrality
+https://stmueller.github.io/epidemic-agents/
 
 ## Genomics
 - https://brouwern.github.io/lbrb/worked-example-building-a-phylogeny-in-r.html
