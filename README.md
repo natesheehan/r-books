@@ -28,3 +28,8 @@ https://stmueller.github.io/epidemic-agents/
 - https://andrewmaclachlan.github.io/CASA0005repo/
 - https://bookdown.org/lexcomber/GEOG3195/
 
+# ABM
+- https://acerbialberto.com/IBM-cultevo/
+
+# Deep Learning
+- https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/image_classification_1.html
